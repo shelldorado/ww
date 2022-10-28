@@ -1,4 +1,4 @@
 # ww
 World Wide Web Wiki - ww²
 
-Dokuwiki
+Dokuwiki Wrapper
