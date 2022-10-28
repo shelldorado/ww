@@ -1,2 +1,2 @@
 # ww
-World Wide Web Wiki -- ww^(2)^
+World Wide Web Wiki - ww^2^
