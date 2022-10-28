@@ -1,4 +1,4 @@
 # ww
 World Wide Web Wiki - ww²
 
-Dokuwiki Wrapper
+bash4+ Dokuwiki Wrapper
